@@ -8,7 +8,7 @@
 using namespace std;
 
 #define no_of_cyclists 15
-#define no_of_services 5
+#define no_of_services 3
 #define payment_room_capacity 3
 #define inf 9999
 
